@@ -19,8 +19,8 @@ It uses an ESP32 to:
 2. Connect to Wi-Fi (change `ssid` and `password` in code).
 3. Open the IP shown in Serial Monitor to access dashboard.
 
-## Screenshot
-*(Add a screenshot if you have one)*
+## Dashboard Screenshot
+<img width="522" height="638" alt="image" src="https://github.com/user-attachments/assets/e5406b4d-644f-4e35-97c5-d2e723c06105" />
 
 ## License
 MIT
